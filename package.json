@@ -1,0 +1,16 @@
+{
+  "name": "next-typro",
+  "version": "1.0.1",
+  "description": "A TypeScript library for custom types and validators",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "Phumudzo",
+  "license": "MIT",
+  "files": [
+    "dist/**/*",
+    "README.md"
+  ]
+}
